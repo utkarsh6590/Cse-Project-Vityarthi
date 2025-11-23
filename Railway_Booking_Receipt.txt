@@ -1,0 +1,13 @@
+------ RAILWAY BOOKING RECEIPT ------
+Passenger: Utkarsh Kumar
+Age: 19
+Email: utkarshkumar@gmail.com
+Address: Vit Bhopal Block 8 Hostel
+
+Trains Booked:
+→ 12001
+
+Total Amount: ₹750
+Booking Date: 2025-11-23
+Estimated Travel Date: 2025-11-29
+--------------------------------------
