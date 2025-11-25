@@ -65,7 +65,7 @@ python railway_booking.py
 ```
 
 
-## 🗄️ Train Database Format
+## Train Database Format
 
 Trains are stored as:
 trains = {
@@ -122,4 +122,5 @@ To contribute:
 
 This project is **free to use for educational purposes**.
 No restrictions on modification or distribution.
+
 
